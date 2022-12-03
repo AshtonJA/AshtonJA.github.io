@@ -64,6 +64,12 @@ Publisher data.wa.gov. (2022, November 18). Electric Vehicle Population Data. Ca
 
 <!-- these are written in a combo of html and liquid --> 
 
+I've tried and tried and for some reason the button links below are stuck leading to the wrong analysis and data. The correct links are:
+
+Data: https://github.com/AshtonJA/AshtonJA.github.io/blob/main/_data/Electric_Vehicle_Population_Data.csv
+
+Analysis: https://github.com/AshtonJA/AshtonJA.github.io/blob/main/python_notebooks/Anaya-Ashton-FinalProject1.ipynb
+
 <div class="left">
 {% include elements/button.html link="https://github.com/AshtonJA/AshtonJA.github.io/blob/main/_data/Electric_Vehicle_Population_Data.csv" text="The Data" %}
 </div>
