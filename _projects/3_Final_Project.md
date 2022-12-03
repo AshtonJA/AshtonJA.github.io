@@ -65,10 +65,10 @@ Publisher data.wa.gov. (2022, November 18). Electric Vehicle Population Data. Ca
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv" text="The Data" %}
+{% include elements/button.html link="https://github.com/AshtonJA/AshtonJA.github.io/blob/main/_data/Electric_Vehicle_Population_Data.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/AshtonJA/AshtonJA.github.io/blob/main/python_notebooks/DataViz_Assignment10.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/AshtonJA/AshtonJA.github.io/blob/main/python_notebooks/Anaya-Ashton-FinalProject1.ipynb" text="The Analysis" %}
 </div>
 
